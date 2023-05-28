@@ -1,0 +1,14 @@
+h3 {
+    text-align : center;
+    color: coral;
+    margin-bottom: 30px;
+  } 
+  h4{
+    margin-top: 20px;
+    text-align: left;
+  }
+  /* body{
+    background-image: url("images\people_map.jpg") ;
+    opacity: 0.2;
+  } */
+
