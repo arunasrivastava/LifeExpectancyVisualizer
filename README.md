@@ -1,6 +1,6 @@
-# National Life Expectancy in the U.S 
+# Factors Impacting Life Expectancy
  *based upon income distribution, gender, and race* 
-  
+
 ## INFO 201 "Foundational Skills for Data Science" — Winter 2023
 
 * Juliette Kwak: hjk123@uw.edu
