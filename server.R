@@ -24,8 +24,6 @@ map_data <- map_data("world")
 merged_data <- left_join(map_data, df, by = c( "region" = "country"))
 
 
-
-
 # summary information 
 
 # server
