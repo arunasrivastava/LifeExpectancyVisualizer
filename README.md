@@ -16,7 +16,7 @@ When you are finished, please add the text from your introductory and concluding
 Feel free to delete these instructions for your final README.md file and to make your GitHub repository public if you would like others to be able to see it. 
 
 # Introduction
-Our main question is how life expectancy changes across the U.S under factors like gender, race, and income distribution. 
+Our main question is how life expectancy changes across the U.S and the greater world under factors like gender, race, and income distribution. 
 
 
 This question is important in acknolwledging the disparities in the U.S and how they can impact the health of disadvantaged groups. 
@@ -31,7 +31,7 @@ One aspect that we have noticed while examining the document regarding data coll
 
 * Which gender tends to have a higher mean household income?
 * Which gender tends to have a longer unadjusted life expectancy?
-* How does income correlate with life expectancy?
+* How does life expectancy in America compare with the rest of the world?
 
 # Conclusion / Summary Takeaways
 
@@ -43,6 +43,6 @@ From 2001-2014, the average household income for women is significantly less tha
 
 Due to social, biological, and behavioral differences, women live upwards of 10 years longer than men. Similar to income, the differences in life expectancy seem to decline among the top and bottom household income earners in the U.S. It seems that this difference has been declining over time, which may be attributed to societal changes and improvements in healthcare for women. 
 
-**Takeaway 3: Life expectancy is associated with income in the U.S** 
+**Takeaway 3: Life expectancy in the U.S. is relatively high compared to the rest of the world** 
 
-The difference in life expectancy is significantly influenced by income disparities. Individuals in the top 90% of income earners tend to live about 15 years longer than those in the bottom 10%. Although it's important to note that economic factors alone cannot determine longevity and life expectancy, it is evident that income plays a significant role in determining lifespan in the United States. This is because healthcare services and access to health education are largely dependent on income. Moreover, there is a noticeable trend of increasing life expectancy among the wealthy while it remains relatively stagnant for those with lower incomes. *This disparity can be attributed to the fact that the affluent population benefits more from advancements in healthcare and medicine, while individuals with limited financial resources struggle to access these resources.* 
+The map demonstrates the average female life expectancy being around 82 years old and 78 years old for males. As such, compared to the rest of the world, the United States is near the top in life expectancy. Especially when contrasted with Chad, where the average female is estimated to live 69 years and the average man, 67. Surpassing America, countries such as Australia and Spain are averaging 86 years for females and 81 for males. These maps are important because they uncover global health disparities and highlight variations in healthcare systems, socioeconomic conditions, and societal practices. This fosters equitable public health initiatives and allows countries to compare and identify the best practices.
