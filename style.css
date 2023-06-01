@@ -7,6 +7,9 @@ h3 {
     margin-top: 20px;
     text-align: left;
   }
+  h2{
+    color: #88BAE3; 
+  }
   /* .help{
     background-image: url("people_map.jpg") ;
     opacity: 0.2;

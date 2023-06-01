@@ -6,6 +6,7 @@ library("bslib")
 library("markdown")
 library("shiny") 
 library("shinythemes")
+library("maps")
 
 health_df <- read.csv("data/health_ineq_online_table_income_percent_year.csv", stringsAsFactors = FALSE)
 
