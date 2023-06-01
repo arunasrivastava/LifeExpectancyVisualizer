@@ -1,7 +1,11 @@
-# Title of Your Final Project Here 
+# National Life Expectancy in the U.S 
+ *based upon income distribution, gender, and race* 
+  
 ## INFO 201 "Foundational Skills for Data Science" — Winter 2023
 
-Authors: Your names here
+* Juliette Kwak: hjk123@uw.edu
+* Katherine Escoto Licona: knel2@uw.edu
+* Aruna Srivastava: arunasri@uw.edu 
 
 **Link: https://arunasrivastava.shinyapps.io/final-project-arunasrivastava/**
 
@@ -32,6 +36,7 @@ One aspect that we have noticed while examining the document regarding data coll
 # Conclusion / Summary Takeaways
 
 **Takeaway 1: Gender disparities exist among the income-earning majorities in the U.S** 
+
 From 2001-2014, the average household income for women is significantly less than men. This income disparity averages to around $10,830 and has the greatest disparity towards the upper percentile. Gender acts as a significant factor of household income for occupations that place individuals between 10-90% of income earners in the U.S. Towards the tail ends of income earners, gender acts as a less significant factor for income as these occupations are generally skewed by factors like generational wealth, or on the opposite end of the spectrum, inability to work or disabilities. *Overall, the income disparity that existed in 2001 has not progressed and there needs to be greater advocacy for women to be paid more and receive the support to advocate for higher wages.* 
 
 **Takeaway 2: Life expectancy for women is higher than for men across the U.S**
