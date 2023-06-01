@@ -7,8 +7,16 @@ h3 {
     margin-top: 20px;
     text-align: left;
   }
-  /* body{
-    background-image: url("images\people_map.jpg") ;
+  /* .help{
+    background-image: url("people_map.jpg") ;
     opacity: 0.2;
   } */
 
+#map-img{
+  align-items: center;
+  width:50%;
+  height:35%
+}
+.ctr {
+  align-content: center;
+}
