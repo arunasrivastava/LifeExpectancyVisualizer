@@ -7,6 +7,7 @@ library("markdown")
 library("shiny") 
 library("shinythemes")
 library("maps")
+library("mapproj")
 
 health_df <- read.csv("data/health_ineq_online_table_income_percent_year.csv", stringsAsFactors = FALSE)
 
@@ -108,7 +109,9 @@ ui <- fluidPage(
     h4("From 2001-2014, the average household income for women is significantly less than men. This income disparity averages to around $10,830 and has the greatest disparity towards the upper percentile. Gender acts as a significant factor of household income for occupations that place individuals between 10-90% of income earners in the U.S. Towards the tail ends of income earners, gender acts as a less significant factor for income as these occupations are generally skewed by factors like generational wealth, or on the opposite end of the spectrum, inability to work or disabilities. Overall, the income disparity that existed in 2001 has not progressed and there needs to be greater advocacy for women to be paid more and receive the support to advocate for higher wages. "),
     h2("Takeaway 2: Life expectancy for women is higher than for men across the U.S "), 
     h4("Due to social, biological, and behavioral differences, women live upwards of 10 years longer than men. Similar to income, the differences in life expectancy seem to decline among the top and bottom household income earners in the U.S. It seems that this difference has been declining over time, which may be attributed to societal changes and improvements in healthcare for women. "),
-    h2("Takeaway 3: Life expectancy in the U.S. is relatively high compared to the rest of the world"), 
+    h2("Takeaway 3: Life expectancy is associated with income in the U.S"), 
+    h4("The difference in life expectancy is significantly influenced by income disparities. Individuals in the top 90% of income earners tend to live about 15 years longer than those in the bottom 10%. Although it's important to note that economic factors alone cannot determine longevity and life expectancy, it is evident that income plays a significant role in determining lifespan in the United States. This is because healthcare services and access to health education are largely dependent on income. Moreover, there is a noticeable trend of increasing life expectancy among the wealthy while it remains relatively stagnant for those with lower incomes. This disparity can be attributed to the fact that the affluent population benefits more from advancements in healthcare and medicine, while individuals with limited financial resources struggle to access these resources. From the trends we identified, we can see that the U.S needs to realize that capitalism has a detrimental impact on the poor such that their life expectancy is nearly 10 years less than the wealthy."),
+    h2("Takeaway 4: Life expectancy in the U.S. is relatively high compared to the rest of the world"), 
     h4("The map demonstrates the average female life expectancy being around 82 years old and 78 years old for males. As such, compared to the rest of the world, the United States is near the top in life expectancy. Especially when contrasted with Chad, where the average female is estimated to live 69 years and the average man, 67. Surpassing America, countries such as Australia and Spain are averaging 86 years for females and 81 for males. These maps are important because they uncover global health disparities and highlight variations in healthcare systems, socioeconomic conditions, and societal practices. This fosters equitable public health initiatives and allows countries to compare and identify the best practices.")
   ) )
 )
