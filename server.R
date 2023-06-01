@@ -13,7 +13,7 @@ health_df <- read.csv("data/health_ineq_online_table_income_percent_year.csv", s
 
 #VIS 3 DF 
 data <- read.csv("data/le_database.csv", stringsAsFactors = FALSE)
-df <- read.csv("data/health_ineq_online_table_country_FM.csv", stringsAsFactors = FALSE)
+df <- read.csv("data/health_ineq_country.csv", stringsAsFactors = FALSE)
 df <- df %>% 
   mutate(country = gsub("United States of America", "USA", country)) %>%
   mutate( country = gsub("Russian Federation", "Russia", country)) %>%
