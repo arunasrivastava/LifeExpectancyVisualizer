@@ -1,10 +1,6 @@
 # Factors Impacting Life Expectancy
  *based upon income distribution, gender, and race* 
-
-## INFO 201 "Foundational Skills for Data Science" — Winter 2023
-
-* Juliette Kwak: hjk123@uw.edu
-* Katherine Escoto Licona: knel2@uw.edu
+Written by: 
 * Aruna Srivastava: arunasri@uw.edu 
 
 **Link: https://arunasrivastava.shinyapps.io/final-project-arunasrivastava/**
