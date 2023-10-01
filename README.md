@@ -1,6 +1,7 @@
 # Factors Impacting Life Expectancy
  *based upon income distribution, gender, and race* 
-Written by: 
+
+ Written by: 
 * Aruna Srivastava: arunasri@uw.edu 
 
 **Link: https://arunasrivastava.shinyapps.io/final-project-arunasrivastava/**
